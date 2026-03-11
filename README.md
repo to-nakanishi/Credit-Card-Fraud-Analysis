@@ -7,12 +7,12 @@ Credit Card Fraud Detection: 3-Layer Segmentation Strategy
 本プロジェクトでは、単なる精度の追求ではなく、「実ビジネスにおける損失補填額の最大化」  
 と「誤検知による顧客離反の抑制」の両立を目的としています。  
 　【データセット】  
-  - Kaggle Credit Card Fraud Detection
-　- 2013年9月の欧州カード決済データ
-　- 284,807件（不正492件、0.18%）
-　- 匿名化特徴量V1-V28
-
-
+  - Kaggle Credit Card Fraud Detection  
+　- 2013年9月の欧州カード決済データ  
+　- 284,807件（不正492件、0.18%）  
+　- 匿名化特徴量V1-V28  
+  
+<br>  
 
   
 2. 独自の分析アプローチ（金額帯別3層戦略）  
