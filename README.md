@@ -1,6 +1,5 @@
 Credit Card Fraud Detection: 3-Layer Segmentation Strategy  
 (リンク先：https://www.kaggle.com/competitions/credit-card-fraud-analysis/overview)  
-※py拡張子のファイルは自動分析にかけるためUPLOADしています。  
 
 1. プロジェクト概要  
 　クレジットカード決済データ（不均衡率0.18%）を用い、不正取引を検知するモデルを構築。  
